@@ -1,0 +1,46 @@
+### Target (Compilação do Maven)
+target/
+*.egg-info/
+
+### Gradle (Se você usar Gradle em vez de Maven)
+.gradle/
+build/
+
+### Log arquivos
+*.log
+
+### Recursos de Ambiente / Configurações Locais
+*.env
+*.properties.local
+*.yml.local
+
+### STS (Spring Tool Suite) / Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code
+.vscode/
+
+### NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Sistema Operacional (Arquivos desnecessários)
+Thumbs.db
+.DS_Store
