@@ -18,6 +18,15 @@ public class UserController {
     );
 
     /**
+     * método para retornar os dados completos do usuário na rota raiz /user
+     * @return objeto UserDTO contendo os dados do usuário
+     */
+    @GetMapping
+    public UserDTO getUsuario() {
+        return mockUser;
+    }
+
+    /**
      * método para retornar o nome de um usuário
      * @return string contendo o nome do usuário
      */
