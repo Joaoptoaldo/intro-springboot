@@ -3,6 +3,11 @@
 Essa é uma API introdutória construída com Spring Boot, demonstrando conceitos básicos do framework, como endpoints REST, DTOs e tratamento de parâmetros.
 
 ---
+## Documentação
+
+- [Objetivos da API](docs/objetivos.md)
+- [Testes de Endpoints](docs/testes.md)
+
 
 ## Como Rodar
 
