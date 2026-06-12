@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -24,7 +22,6 @@ build/
 *.yml.local
 
 ### STS (Spring Tool Suite) / Eclipse
->>>>>>> 8a7c1ff2ed48334b8b0692a91b31786cb32dcbab
 .apt_generated
 .classpath
 .factorypath
@@ -78,4 +75,3 @@ nbdist/
 ### Sistema Operacional (Arquivos desnecessários)
 Thumbs.db
 .DS_Store
->>>>>>> 8a7c1ff2ed48334b8b0692a91b31786cb32dcbab
